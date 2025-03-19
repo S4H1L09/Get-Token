@@ -30,7 +30,7 @@ cd Get-Token
 ### 🔹 **Step 3: Latest Updates Pull karein**  
 ```bash
 git pull
-pip install -r requirements.txt
+python setup.py 
 ```
 
 ### 🔹 **Step 4: Tool ko Run karein**  
