@@ -1,2 +1,2 @@
-import token 
-token.main()
+import token_gan
+token_gan.main()
